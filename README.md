@@ -1,3 +1,3 @@
 "Rust version of csh" - @geal
 
-Want to this this happening? Consider sponsoring.
+Want to see this happen? Consider sponsoring.
